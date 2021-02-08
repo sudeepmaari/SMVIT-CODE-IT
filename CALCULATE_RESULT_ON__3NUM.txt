@@ -1,0 +1,8 @@
+Step 1: Start 
+Step 2: input num1,num2,num3
+Step 3: result=(num1+num2)*num3
+        if(result>100)
+        print"Result is greater than 100"
+        else 
+        print"Result is lesser than 100"
+Step 4: Stop

@@ -1,0 +1,7 @@
+Step 1: Start
+Step 2: input number
+Step 3: if(number%2==0)
+          print "The given number is even "
+        else 
+          print "The given number is odd"
+Step 4: Stop 

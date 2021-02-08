@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: input name,age,sex
+Step 3: print " Name = ",name
+        print " Age = ",age
+        print " Sex = ",sex
+Step 4: Stop
